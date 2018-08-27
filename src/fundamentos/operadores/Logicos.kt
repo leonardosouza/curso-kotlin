@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
     println(comprouTv50)
 
     // operador unario
-    if(!comprouSorvete) {
+    if (!comprouSorvete) {
         println("A saude agradece")
     }
 }

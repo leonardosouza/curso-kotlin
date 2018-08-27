@@ -7,4 +7,3 @@ fun simplesFuncao(texto: String): String {
 class Coisa(val nome: String)
 
 enum class FaceMoeda { CARA, COROA }
-

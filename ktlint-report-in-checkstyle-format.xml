@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="8.0">
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/ChamadaSegura.kt">
+		<error line="6" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/ChecagemDeTipos.kt">
+		<error line="6" column="7" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="8" column="14" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/Constantes.kt">
+		<error line="9" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/OperatorCast.kt">
+		<error line="5" column="9" severity="error" message="Missing spacing after &quot;when&quot;" source="keyword-spacing" />
+		<error line="13" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/PrimeiroPrograma.kt">
+		<error line="5" column="26" severity="error" message="Unnecessary semicolon" source="no-semi" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/SmartCast.kt">
+		<error line="6" column="14" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="12" column="9" severity="error" message="Missing spacing after &quot;when&quot;" source="keyword-spacing" />
+		<error line="17" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+		<error line="20" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/TestImport.kt">
+		<error line="17" column="2" severity="error" message="Redundant newline (\n) at the end of file" source="final-newline" />
+		<error line="6" column="1" severity="error" message="Wildcard import (cannot be auto-corrected)" source="no-wildcard-imports" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/Variaveis.kt">
+		<error line="5" column="15" severity="error" message="Unnecessary space(s)" source="no-multi-spaces" />
+		<error line="10" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/DoWhile.kt">
+		<error line="13" column="2" severity="error" message="Redundant newline (\n) at the end of file" source="final-newline" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/If.kt">
+		<error line="6" column="7" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="9" column="1" severity="error" message="Unexpected blank line(s) before &quot;}&quot;" source="no-blank-line-before-rbrace" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/IfElse2.kt">
+		<error line="7" column="24" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="15" column="16" severity="error" message="Redundant curly braces" source="string-template" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/IfElseIf.kt">
+		<error line="7" column="7" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="9" column="14" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="11" column="14" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="13" column="14" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/When.kt">
+		<error line="6" column="9" severity="error" message="Missing spacing after &quot;when&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/While1.kt">
+		<error line="6" column="10" severity="error" message="Missing spacing after &quot;while&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/controles/While2.kt">
+		<error line="6" column="10" severity="error" message="Missing spacing after &quot;while&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/funcoes/ArgsNomeados.kt">
+		<error line="9" column="35" severity="error" message="Missing spacing around &quot;=&quot;" source="op-spacing" />
+		<error line="9" column="50" severity="error" message="Missing spacing around &quot;=&quot;" source="op-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/funcoes/TopLevel.kt">
+		<error line="3" column="34" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+		<error line="5" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/operadores/Aritmeticos.kt">
+		<error line="9" column="25" severity="error" message="Unnecessary space(s)" source="no-multi-spaces" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/operadores/Destructuring.kt">
+		<error line="3" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+		<error line="6" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/operadores/Logicos.kt">
+		<error line="16" column="7" severity="error" message="Missing spacing after &quot;if&quot;" source="keyword-spacing" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/operadores/Relacionais.kt">
+		<error line="3" column="1" severity="error" message="Wildcard import (cannot be auto-corrected)" source="no-wildcard-imports" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/operadores/Ternario2.kt">
+		<error line="5" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+	</file>
+	<file name="/Users/leonardo.souza/classrooms/curso-kotlin/src/fundamentos/pacoteA/Mistura.kt">
+		<error line="9" column="37" severity="error" message="Redundant newline (\n) at the end of file" source="final-newline" />
+		<error line="11" column="1" severity="error" message="Needless blank line(s)" source="no-consecutive-blank-lines" />
+	</file>
+</checkstyle>

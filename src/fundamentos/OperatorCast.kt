@@ -2,7 +2,7 @@ package fundamentos
 
 fun imprimirConceito(nota: Any) {
     // ? operador cast
-    when(nota as? Int) {
+    when (nota as? Int) {
         10, 9 -> println("A")
         8, 7 -> println("B")
         6, 5 -> println("C")
@@ -10,7 +10,6 @@ fun imprimirConceito(nota: Any) {
         2, 1, 0 -> println("E")
         else -> println("Inválido!")
     }
-
 }
 
 fun main(args: Array<String>) {
